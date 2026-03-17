@@ -1,0 +1,22 @@
+{
+  "name": "zombie-range-terminal-survivor",
+  "version": "1.0.0",
+  "description": "A Node.js command-line zombie shooting challenge with scoring, health, difficulty levels, and high scores.",
+  "main": "index.js",
+  "bin": {
+    "zombie-range": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "play": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "cli",
+    "game",
+    "zombie",
+    "terminal"
+  ],
+  "author": "",
+  "license": "MIT"
+}
